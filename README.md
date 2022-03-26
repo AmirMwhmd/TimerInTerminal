@@ -1,4 +1,4 @@
-# Timer-wth-Python
+# Timer-with-Python
 Timer with Python for Beginners
 
 <!-- LICENSE -->
