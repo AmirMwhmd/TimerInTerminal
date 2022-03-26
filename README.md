@@ -11,4 +11,4 @@ No License :) . Yes it's `Free` for you.
 
 Your Name - [Instagram](https://instagram.com/awrsha.parvizi?utm_medium=copy_link) - official.parvizi@gmail.com
 
-YouTube Project Link: [Timer wth Python](https://youtu.be/9ixDSmAbBq4)
+YouTube Project Link: [Timer with Python](https://youtu.be/9ixDSmAbBq4)
