@@ -9,6 +9,6 @@ No License :) . Yes it's `Free` for you.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [Instagram](https://instagram.com/im.awrsha?utm_medium=copy_link) - official.parvizi@gmail.com
+Your Name - [Instagram](https://instagram.com/awrsha.parvizi?utm_medium=copy_link) - official.parvizi@gmail.com
 
-Project Link: [Timer wth Python](https://github.com/AmirMwhmd/Timer-wth-Python)
+YouTube Project Link: [Timer wth Python](https://youtu.be/9ixDSmAbBq4)
